@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vardaan Rana - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #3498db;
+            color: #fff;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h1, h2 {
+            color: #3498db;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #3498db;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Vardaan Rana</h1>
+        <p>BCA Student at Amity University, Noida</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm Vardaan Rana, a 19-year-old student currently pursuing my BCA at Amity University, Noida. I have a keen interest and strong knowledge in both software and hardware aspects of computers.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <p>I am well-versed in various computer technologies, including both software and hardware. My skills range from programming languages to understanding the intricacies of computer systems.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>You can reach out to me via email at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Vardaan Rana - Personal Webpage</p>
+    </footer>
+
+</body>
+</html>
